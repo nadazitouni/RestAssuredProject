@@ -44,3 +44,12 @@ Expected result:
  a random value
 }
 if random is < 15 then return Correct else return Not Correct
+
+
+
+How To Use
+
+1. unzip RestAssuredProject
+2. import project to IDE (example eclipse)
+3. run test which is in RestAssuredProject-main\RestAssuredProject\src\test\java\test as a testng test
+4. result are displayed automatically
